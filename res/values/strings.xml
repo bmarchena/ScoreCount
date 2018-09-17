@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScoreCount</string>
+    <string name="button_one_txt">TEAM 1</string>
+    <string name="button_two_txt">TEAM 2</string>
+</resources>
